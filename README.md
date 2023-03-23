@@ -29,7 +29,7 @@ Dependent files:
 1. sentiment.txt file is used to extract the emotion portrayed by specific words in the text.
 
 2. samplevideo.mp3 file is the video whose sentiment analysis is executed.
-I have taken the Video of Steve Jobs'2005 Stanford Commencement Address. The link to the original video is https://www.youtube.com/watch?v=Hd_ptbiPoXM.
+I have taken the Video of Steve Jobs'2005 Stanford Commencement Address. The link to the original video is https://youtu.be/UF8uR6Z6KLc 
 
 USAGE:
 
